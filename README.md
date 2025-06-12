@@ -56,7 +56,13 @@
 <p><samp><strong>★ this week i spent most of my time on –</strong></samp></p>
 
 <!--START_SECTION:waka-->
-<!-- your coding time from waka will show up here -->
+
+```txt
+JavaScript   3 hrs 20 mins   ██████████████▓░░░░░░░░░░   58.87 %
+Python       1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+HTML         52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
