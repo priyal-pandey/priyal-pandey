@@ -114,8 +114,4 @@ Git Config   3 mins          ░░░░░░░░░░░░░░░░░
 
 ###
 
-<p align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" height="130" />
-</p>
-
 =^.^==^.^==^.^= =^.^==^.^==^.^= =^.^==^.^==^.^= =^.^==^.^==^.^= =^.^==^.^==^.^= =^.^==^.^==^.^= =^.^=
