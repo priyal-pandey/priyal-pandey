@@ -2,14 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=fa6485&width=480&lines=whoa,+you+found+me+on+GitHub!" alt="Typing SVG" />
 </p>
 
-### <p align="center"><samp> hi, i’m priyal.</samp></p>
-<p align="center"><samp><strong>On a journey from “what does this mean?” to “i built this!”</strong></samp></p>
+### <p align="center"> hi, i’m priyal.</p>
+<p align="center"><strong>On a journey from “what does this mean?” to “i built this!”</strong></p>
 
 ###
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="100" alt="Coding Cat" />
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height="100" alt="Sleepy Coding Cat" />
 </p>
 
 ###
@@ -17,7 +16,7 @@
 
 ###
 
-<p><samp><strong>★ i am familiar with –</strong></samp></p>
+<p><strong>★ i am familiar with –</strong></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -53,7 +52,7 @@
 
 ###
 
-<p><samp><strong>★ this week i spent most of my time on –</strong></samp></p>
+<p><strong>★ this week i spent most of my time on –</strong></p>
 
 <!--START_SECTION:waka-->
 
@@ -66,7 +65,7 @@ HTML     23 mins         █████▓░░░░░░░░░░░░�
 
 ###
 
-<!--p><samp><strong>★ currently exploring –</strong></samp></p>
+<!--p><strong>★ currently exploring –</strong></p>
 <ul><samp>
   <li>building projects in Flask & React</li>
   <li>learning AWS and Azure fundamentals</li>
@@ -75,7 +74,7 @@ HTML     23 mins         █████▓░░░░░░░░░░░░�
 
 ###
 
-<p><samp><strong>★ some numbers, if you're curious –</strong></samp></p>
+<p><strong>★ some numbers, if you're curious –</strong></p>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=priyal-pandey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=my%20github%20stats" height="130" alt="stats graph" />
@@ -85,7 +84,7 @@ HTML     23 mins         █████▓░░░░░░░░░░░░�
 
 ###
 
-<p><samp><strong>★ connect with me –</strong></samp></p>
+<p><strong>★ connect with me –</strong></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/priyalpandey/" target="_blank">
@@ -106,10 +105,4 @@ HTML     23 mins         █████▓░░░░░░░░░░░░�
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/priyal-pandey/count.svg?" />
-</div>
 
-###
-
-=^.^==^.^==^.^= =^.^==^.^==^.^= =^.^==^.^==^.^= =^.^==^.^==^.^= =^.^==^.^==^.^= =^.^==^.^==^.^= =^.^=
