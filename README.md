@@ -48,7 +48,11 @@
 ## <p><samp><strong>★ this week i spent most of my time on –</strong></samp></p>
 
 <!--START_SECTION:waka-->
-<!-- your coding time from waka will show up here -->
+
+```txt
+Java   34 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
