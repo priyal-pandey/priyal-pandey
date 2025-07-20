@@ -18,7 +18,7 @@
 
 ## <p><samp><strong>★ i am familiar with –</strong></samp></p>
   
-  ### languages
+  ### languages:
   <p>
     <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python Badge"/>
     <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java Badge"/>
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" alt="CSS3 Badge"/>
   </p>
   
-  ### tools, frameworks and cloud
+  ### tools, frameworks and cloud:
   <p>
     <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React Badge"/>
     <img src="https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs" alt="Node.js Badge"/>
@@ -53,12 +53,13 @@
 
 ###
 
-## <p><samp><strong>★ currently exploring –</strong></samp></p>
-<ul><samp>
+
+<!--p><samp><strong>★ currently exploring –</strong></samp></p-->
+<!--ul><samp>
   <li>building projects in Flask & React</li>
   <li>learning AWS and Azure fundamentals</li>
   <li>strengthening Data Structures & Algorithms</li>
-</samp></ul>
+</samp></ul-->
 
 ###
 
@@ -85,7 +86,8 @@
 
 ###
 
-## <p><samp><strong>★ check out my posts on medium –</strong></samp></p>
+
+<!--p><samp><strong>★ check out my posts on medium –</strong></samp></p-->
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=priyal.pandey&theme=radical" alt="Layout with last medium posts" />
