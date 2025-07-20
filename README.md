@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=fa6485&width=480&lines=whoa,+you+found+me+on+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=fa6485&width=480&lines=whoa,+you+found+me+on+GitHub!" alt="Typing SVG" />
 </p>
 
-### <p align="center"> hi, i’m priyal.</p>
-<p align="center"><strong>On a journey from “what does this mean?” to “i built this!”</strong></p>
+# <p align="center"><samp> hi, i’m priyal!</samp></p>
+### <p align="center"><samp><strong>On a journey from “what does this mean?” to “i built this!”</strong></samp></p>
 
 ###
 
@@ -16,64 +16,53 @@
 
 ###
 
-<p><strong>★ i am familiar with –</strong></p>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+## <p><samp><strong>★ i am familiar with –</strong></samp></p>
+  
+  ### languages
+  <p>
+    <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
+    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5 Badge"/>
+    <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" alt="CSS3 Badge"/>
+  </p>
+  
+  ### tools, frameworks and cloud
+  <p>
+    <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs" alt="Node.js Badge"/>
+    <img src="https://img.shields.io/badge/-Express-000?&logo=express&logoColor=white" alt="Express Badge"/>
+    <img src="https://img.shields.io/badge/-Flask-000?&logo=flask&logoColor=white" alt="Flask Badge"/>
+    <img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" alt="MongoDB Badge"/>
+    <img src="https://img.shields.io/badge/-MySQL-000?&logo=mysql" alt="MySQL Badge"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql" alt="PostgreSQL Badge"/>
+    <img src="https://img.shields.io/badge/-AWS-000?&logo=amazonaws" alt="AWS Badge"/>
+    <img src="https://img.shields.io/badge/-Azure-000?&logo=microsoftazure" alt="Azure Badge"/>
+  </p>
+  
 </div>
 
 ###
 
-<p><strong>★ this week i spent most of my time on –</strong></p>
+## <p><samp><strong>★ this week i spent most of my time on –</strong></samp></p>
 
 <!--START_SECTION:waka-->
-
-```txt
-Java   34 mins         █████████████████████████   100.00 %
-```
-
+<!-- your coding time from waka will show up here -->
 <!--END_SECTION:waka-->
 
 ###
 
-<!--p><strong>★ currently exploring –</strong></p>
+## <p><samp><strong>★ currently exploring –</strong></samp></p>
 <ul><samp>
   <li>building projects in Flask & React</li>
   <li>learning AWS and Azure fundamentals</li>
   <li>strengthening Data Structures & Algorithms</li>
-</samp></ul-->
+</samp></ul>
 
 ###
 
-<p><strong>★ some numbers, if you're curious –</strong></p>
+## <p><samp><strong>★ some numbers, if you're curious –</strong></samp></p>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=priyal-pandey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=my%20github%20stats" height="130" alt="stats graph" />
@@ -83,7 +72,7 @@ Java   34 mins         ███████████████████
 
 ###
 
-<p><strong>★ connect with me –</strong></p>
+## <p><samp><strong>★ connect with me –</strong></samp></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/priyalpandey/" target="_blank">
@@ -96,12 +85,16 @@ Java   34 mins         ███████████████████
 
 ###
 
-<!--p><samp><strong>★ check out my posts on medium –</strong></samp></p-->
+## <p><samp><strong>★ check out my posts on medium –</strong></samp></p>
 
-<!--div align="center">
+<div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=priyal.pandey&theme=radical" alt="Layout with last medium posts" />
-</div-->
+</div>
 
-###
+
+
+
+
+
 
 
