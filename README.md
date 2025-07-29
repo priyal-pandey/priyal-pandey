@@ -24,12 +24,13 @@
     <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java Badge"/>
     <img src="https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript Badge"/>
-    <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5 Badge"/>
-    <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" alt="CSS3 Badge"/>
+    
   </p>
   
   ### tools, frameworks and cloud:
   <p>
+    <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5 Badge"/>
+    <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" alt="CSS3 Badge"/>
     <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React Badge"/>
     <img src="https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs" alt="Node.js Badge"/>
     <img src="https://img.shields.io/badge/-Express-000?&logo=express&logoColor=white" alt="Express Badge"/>
