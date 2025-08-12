@@ -18,7 +18,7 @@
 
 ## <p><samp><strong>★ i am familiar with –</strong></samp></p>
   
-  ### languages:
+
   <p>
     <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python Badge"/>
     <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java Badge"/>
@@ -27,7 +27,6 @@
     
   </p>
   
-  ### tools, frameworks and cloud:
   <p>
     <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5 Badge"/>
     <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" alt="CSS3 Badge"/>
