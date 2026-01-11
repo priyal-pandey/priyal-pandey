@@ -34,9 +34,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 25 mins    ███████████████████████░░   92.29 %
-HTML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   1 hr 10 mins    ███████████████████████▓░   94.35 %
+HTML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
