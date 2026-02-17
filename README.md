@@ -34,8 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   8 mins          ████████████████████████░   96.13 %
-CSS    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
