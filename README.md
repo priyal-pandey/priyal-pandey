@@ -34,10 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          1 hr 16 mins          ████████████████████▓░░░░   82.73 %
-CSS          14 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
